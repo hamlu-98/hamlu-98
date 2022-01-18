@@ -3,7 +3,7 @@
   Hello! I'm Hamad
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <br>
-  <img width='470px' align='center' src='https://readme-typing-svg.herokuapp.com?font=poppins&color=FF5671&size=23&width=480&lines=%F0%9F%92%BBI+Am+Currently+Learning+Full+Stack+Web+Dev;at+The+Odin+Project+%F0%9F%A4%99%E2%9C%A8;'>
+  <img width='470px' align='center' src='https://readme-typing-svg.herokuapp.com?font=poppins&color=FF5671&size=23&width=480&lines=%F0%9F%92%BBI+Am+A+Self-Taught+Developer;and+have+a+passion+for+learning+%F0%9F%A4%99%E2%9C%A8;'>
   </br>
   <img width="35%" align="right" alt="Github" border-radius="0.5rem" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" /> 
   
